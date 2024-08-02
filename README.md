@@ -16,7 +16,7 @@
 2. Open The Installer 
 
 
-## Cellebrite UFED - Activation license
+## Bandicam v7 - Activation license
 
 # Requirements:
 Windows 7/10/11
