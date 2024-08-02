@@ -1,8 +1,5 @@
 # Bandicam v7
 
-# Cellebrite UFED Version 7
-
-
 # Installation | Setup
 
 
